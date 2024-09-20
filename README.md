@@ -2,7 +2,6 @@
 
 ### 🌍 Location: Abuja, Nigeria | 📧 [abduljalal849@gmail.com](mailto:abduljalal849@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abduljalal%20Mohammed-blue)](https://www.linkedin.com/in/abduljalal-mohammed-092296260)
-[![GitHub](https://img.shields.io/badge/GitHub-jalal--codr-blue)](https://github.com/jalal-codr)
 
 ---
 
