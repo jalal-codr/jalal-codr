@@ -31,13 +31,6 @@ I am a **Software Engineer** with **two years** of experience in full-stack deve
 
 **Languages/Frameworks**: HTML, CSS, JavaScript, TypeScript, React, Python, Golang, Flask, Node.js, Next.js, Tailwind CSS, SvelteKit, NestJS, Express.js, SQL, MongoDB, GCP, AWS, Docker
 
----
-
-## 📊 GitHub Stats
-
-![Abduljalal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jalal-codr&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jalal-codr&layout=compact&theme=radical)
 
 ---
 
