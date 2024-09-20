@@ -7,7 +7,7 @@
 
 ## 💻 About Me
 
-I am a **Software Engineer** with **two years** of experience in full-stack development. I have a passion for building systems that drive efficiency and solve real-world problems, from e-commerce platforms to payment systems. With expertise in various technologies, I enjoy collaborating on projects that drive impact.
+Hello! I am a passionate Software Engineer specializing in full-stack development, dedicated to creating innovative solutions that enhance user experiences. I enjoy collaborating closely with cross-functional teams to transform ideas into impactful applications. My commitment to continuous learning and staying updated with industry trends drives my ability to deliver high-quality software that meets both client and user needs.
 
 - 🔨 Experienced in **full product cycles** from conception to completion
 - 🚀 Skilled in **building systems**, managing databases, and designing APIs
