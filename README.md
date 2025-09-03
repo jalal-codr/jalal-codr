@@ -38,4 +38,4 @@ Hello! I am a passionate Software Engineer specializing in full-stack developmen
 - 📧 Email: [abduljalal849@gmail.com](mailto:abduljalal849@gmail.com)
 - 💼 LinkedIn: [Abduljalal Mohammed](https://www.linkedin.com/in/abduljalal-mohammed-092296260)
 - 🖥️ GitHub: [jalal-codr](https://github.com/jalal-codr)
-- Portfolio: [](https://abduljalal.vercel.app/)
+- Portfolio: [abduljalal.vercel.app](https://abduljalal.vercel.app/)
